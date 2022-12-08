@@ -15,7 +15,7 @@ body {
 }
 .landing {
     height: 100vh;
-    background-image: url("/image/forestbridge.jpg");
+    background-image: url("../image/forestbridge.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
